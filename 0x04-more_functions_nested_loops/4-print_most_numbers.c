@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+*print_most_numbers - prints
+* owned by Arnold
+*Return: void
+*/
+
 void print_most_numbers(void)
 {
 	char c;
