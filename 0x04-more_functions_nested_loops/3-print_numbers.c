@@ -1,6 +1,10 @@
 #include "main.h"
 
-
+/**
+*print_numbers - print 0123456789
+* owned by Arnold
+*Return: void
+*/
 
 void print_numbers(void)
 {
